@@ -1,0 +1,10 @@
+body{
+    color: #fff;
+    overflow-x: hidden;
+    height: 100%;
+    background-image: linear-gradient(#81d4fa, #2196f3);
+    background-repeat: no-repeat;
+    line-height: 2.38;
+    filter: blue(4rem);
+    transition: filter 0.75s;
+}
